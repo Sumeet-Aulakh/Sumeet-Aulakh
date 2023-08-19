@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sumeet Singh Aulakh</h1>
-<h3 align="center">A passionate frontend developer from Canada</h3>
+<h3 align="center">A passionate developer from Canada</h3>
 
 - 🔭 I have worked on [Rubiks Cube Solver](https://github.com/Sumeet-Aulakh/Rubiks-Cube-Solver)
 
